@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <limits.h>
 int reverse(int x){
     int rev = 0, temp = x, rem = 0;
